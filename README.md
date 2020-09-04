@@ -6,8 +6,8 @@ This activity comes from David Lane, of Lets Code Physics fame.
 Watch these videos
 | Column 1       | Column 2     | 
 | :------------- | :----------: | 
-| 1 | Introducing Relativity 1 Relativistic Euler-Cromer Method](https://www.youtube.com/watch?v=InD54gt1P7M)  | 
-| 4   | [ep 4: length contraction](https://www.youtube.com/watch?v=jRvqK5bO9NE) | 
+| 1 | [Ep 1: Introducing Relativity 1 Relativistic Euler-Cromer Method](https://www.youtube.com/watch?v=InD54gt1P7M)  | 
+| 4   | [Ep 4: length contraction](https://www.youtube.com/watch?v=jRvqK5bO9NE) | 
 |6 | [Ep 6: contraction of space!](https://www.youtube.com/watch?v=yuECZzO0ZAE) |
 
 
