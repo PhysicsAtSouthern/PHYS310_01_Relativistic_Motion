@@ -2,7 +2,7 @@
 
 This activity comes from David Lane, of Lets Code Physics fame. 
 
-##Reference information
+## Reference information
 Watch these videos
 | Column 1       | Column 2     | 
 | :------------- | :----------: | 
