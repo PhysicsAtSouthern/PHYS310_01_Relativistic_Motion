@@ -1,6 +1,6 @@
 # Relativistic motion
 
-This activity comes from David Lane, of Lets Code Physics fame. 
+This activity comes from W. Brian Lane, of Lets Code Physics fame. He's done a lot of good work in physics education, and I like to hang out with him at conferences. 
 
 ## Reference information
 Watch these videos
